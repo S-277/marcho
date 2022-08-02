@@ -467,7 +467,7 @@ footer {
 }
 
 .pagination__prev::before {
-  background-image: url("..../img/icons/angle_left.svg");
+  background-image: url("../img/icons/angle_left.svg");
   left: 0;
   top: 3px;
 }
@@ -477,7 +477,7 @@ footer {
 }
 
 .pagination__next::before {
-  background-image: url("..../img/icons/angle_right.svg");
+  background-image: url("../img/icons/angle_right.svg");
   right: 0;
   top: 3px;
 }
@@ -943,7 +943,7 @@ footer {
 }
 
 .info::before {
-  background-image: url("..../img/categories-decor/info-before-bg.svg");
+  background-image: url("../img/categories-decor/info-before-bg.svg");
   top: -40px;
   left: -44px;
   width: 120px;
@@ -951,7 +951,7 @@ footer {
 }
 
 .info::after {
-  background-image: url("..../img/categories-decor/info-after-bg.svg");
+  background-image: url("../img/categories-decor/info-after-bg.svg");
   bottom: -22px;
   right: -22px;
   width: 65px;
@@ -1387,7 +1387,7 @@ footer {
 }
 
 .promo {
-  background-image: url("..../img/promo-bg.jpg");
+  background-image: url("../img/promo-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1478,7 +1478,7 @@ footer {
 
 .blog {
   padding: 50px 0 160px;
-  background-image: url("..../img/blog-bg.svg");
+  background-image: url("../img/blog-bg.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -1501,7 +1501,7 @@ footer {
   width: 126px;
   height: 53px;
   z-index: -1;
-  background-image: url("..../img/categories-decor/blog-decor.svg");
+  background-image: url("../img/categories-decor/blog-decor.svg");
 }
 
 .blog__item-box {
@@ -1528,7 +1528,7 @@ footer {
 }
 
 .blog__item:hover .blog__item-link::after {
-  background-image: url("..../img/icons/arrow-acc.svg");
+  background-image: url("../img/icons/arrow-acc.svg");
 }
 
 .blog__item-imglink {
@@ -1557,7 +1557,7 @@ footer {
   content: "";
   width: 10px;
   height: 8px;
-  background-image: url("..../img/icons/arrow.svg");
+  background-image: url("../img/icons/arrow.svg");
   position: absolute;
   top: 8px;
   right: -16px;
@@ -1583,7 +1583,7 @@ footer {
 
 .blog-box__author::before {
   content: "";
-  background-image: url("..../img/icons/user-gray.svg");
+  background-image: url("../img/icons/user-gray.svg");
   position: absolute;
   width: 20px;
   height: 20px;
@@ -1599,7 +1599,7 @@ footer {
 
 .blog-box__date::before {
   content: "";
-  background-image: url("..../img/icons/time.svg");
+  background-image: url("../img/icons/time.svg");
   position: absolute;
   width: 20px;
   height: 20px;
@@ -1987,7 +1987,7 @@ footer {
   top: 2px;
   width: 15px;
   height: 13px;
-  background-image: url("..../img/icons/reply.svg");
+  background-image: url("../img/icons/reply.svg");
 }
 
 .comments-form {
@@ -2934,7 +2934,7 @@ footer {
 }
 
 .filter-color__input:checked + .filter-color__checkbox {
-  background-image: url("..../img/icons/check-on.svg");
+  background-image: url("../img/icons/check-on.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -3155,7 +3155,7 @@ footer {
   width: 10px;
   height: 5px;
   border: none;
-  background-image: url("../..../img/icons/select-arrow.svg    ");
+  background-image: url("../img/icons/select-arrow.svg    ");
 }
 
 .jq-selectbox {
